@@ -8,7 +8,7 @@ export function MainView({ attrs }) {
   }
 
   function view({ attrs }) {
-    return <h3>Currency exchange rate</h3>;
+    return <h3>Currency exchange rate!</h3>;
   }
 
   return { view };
